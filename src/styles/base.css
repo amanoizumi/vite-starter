@@ -1,0 +1,8 @@
+@layer base {
+  body {
+    @apply font-normal tracking-normal leading-[1.5];
+  }
+  li {
+    @apply list-none;
+  }
+}
